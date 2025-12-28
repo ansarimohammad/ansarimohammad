@@ -71,9 +71,9 @@ const mohammad = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
-| 📚 **LawLevelUp Online** | Legal education platform with secure auth & dynamic content | Next.js, MongoDB, Clerk | [View](#) |
-| 🤝 **Alight India Foundation** | Responsive NGO website for social impact | HTML, CSS, JavaScript | [View](#) |
-| 🏢 **Apartment Management** | Complete property management system | MySQL, PHP, JavaScript | [View](#) |
+| 📚 **LawLevelUp Online** | Legal education platform with secure auth & dynamic content | Next.js, MongoDB, Clerk | [View](https://lawlevelup.online/) |
+| 🤝 **Alight India Foundation** | Responsive NGO website for social impact | HTML, CSS, JavaScript | [View](https://alight-india-foundation.vercel.app/) |
+| 🏢 **Apartment Management** | Complete property management system | MySQL, PHP, JavaScript | - |
 
 </div>
 
