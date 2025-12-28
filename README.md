@@ -79,23 +79,6 @@ const mohammad = {
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ansarimohammad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansarimohammad&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ansarimohammad&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
@@ -103,7 +86,7 @@ const mohammad = {
 | 🥇 Achievement | 📅 Year |
 |----------------|---------|
 | Smart India Hackathon Finalist | 2024 |
-| NPTEL - Programming with Generative AI | 2024 |
+| NPTEL - Programming with Generative AI | 2025 |
 | Web Development Internship - LawLevelUp | 2025 |
 
 </div>
@@ -141,28 +124,6 @@ D Y Patil International University
 </td>
 </tr>
 </table>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Mohammad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ansarimohammad&theme=tokyo-night)](https://github.com/ansarimohammad)
-
-</div>
-
----
-
-## 🎯 Current Goals for 2025
-
-```mermaid
-graph LR
-    A[Master Advanced React] --> B[Build SaaS Products]
-    B --> C[Contribute to Open Source]
-    C --> D[Learn Cloud Technologies]
-    D --> E[Launch Personal Startup]
-```
 
 ---
 
