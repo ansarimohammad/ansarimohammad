@@ -71,9 +71,10 @@ const mohammad = {
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| ✈️ **SkyPath** | MERN-based flight suggestion app with Gemini AI and JWT authentication | MongoDB, Express, React, Node.js | [View].(https://skypath-flights.vercel.app/) |
 | 📚 **LawLevelUp Online** | Legal education platform with secure auth & dynamic content | Next.js, MongoDB, Clerk | [View](https://lawlevelup.online/) |
 | 🤝 **Alight India Foundation** | Responsive NGO website for social impact | HTML, CSS, JavaScript | [View](https://alight-india-foundation.vercel.app/) |
-| 🏢 **Apartment Management** | Complete property management system | MySQL, PHP, JavaScript | - |
+| 🏢 **Apartment Management** | Complete property management system | MySQL, PHP, JavaScript | [View].(https://drive.google.com/drive/folders/1lBalxtImcdLbtJvl5R8CLq2y7z5_RTct) |
 
 </div>
 
